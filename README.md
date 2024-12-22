@@ -4,5 +4,4 @@ This project demonstrates how to use a fine-tuned model from Hugging Face for qu
 
 ## Features
 - **Model**: from the Huggingface website, google/tapas-base-finetuned-sqa model is used. 
-- **Prompt-Driven QA**: Simple, intuitive prompts are used to extract answers from tabular data.
 - **Custom Dataset**: Works seamlessly with user-provided tabular datasets.
